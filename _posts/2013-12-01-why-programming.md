@@ -1,6 +1,6 @@
 ---
 title: Why Programming
 layout: post
-published: false
+published: true
 ---
 Programming involves a lot of creativity.
